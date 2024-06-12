@@ -1,0 +1,3 @@
+[submodule "speech-2024"]
+	path = speech-2024
+	url = git@github.com:cuicui-ysxq/speech-2024
