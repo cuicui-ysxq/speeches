@@ -1,6 +1,6 @@
-[submodule "speeches/speech-2024"]
-	path = speeches/speech-2024
-	url = git@github.com:cuicui-ysxq/speech-2024
 [submodule "speeches/speech-2023"]
 	path = speeches/speech-2023
 	url = git@github.com:cuicui-ysxq/speech-2023.git
+[submodule "speeches/speech-2024"]
+	path = speeches/speech-2024
+	url = git@github.com:cuicui-ysxq/speech-2024.git
