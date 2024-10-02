@@ -4,3 +4,15 @@
 [submodule "speeches/2023/videos/speech-2023-2"]
 	path = speeches/2023/videos/speech-2023-2
 	url = https://github.com/cuicui-ysxq/speech-2023-2.git
+[submodule "speeches/2024/videos/speech-2024-1"]
+	path = speeches/2024/videos/speech-2024-1
+	url = https://github.com/cuicui-ysxq/speech-2024-1.git
+[submodule "speeches/2024/videos/speech-2024-2"]
+	path = speeches/2024/videos/speech-2024-2
+	url = https://github.com/cuicui-ysxq/speech-2024-2.git
+[submodule "speeches/2024/videos/speech-2024-3"]
+	path = speeches/2024/videos/speech-2024-3
+	url = https://github.com/cuicui-ysxq/speech-2024-3.git
+[submodule "speeches/2024/videos/speech-2024-4"]
+	path = speeches/2024/videos/speech-2024-4
+	url = https://github.com/cuicui-ysxq/speech-2024-4.git
