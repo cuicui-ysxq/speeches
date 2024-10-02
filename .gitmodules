@@ -1,0 +1,6 @@
+[submodule "speeches/2023/videos/speech-2023-1"]
+	path = speeches/2023/videos/speech-2023-1
+	url = https://github.com/cuicui-ysxq/speech-2023-1.git
+[submodule "speeches/2023/videos/speech-2023-2"]
+	path = speeches/2023/videos/speech-2023-2
+	url = https://github.com/cuicui-ysxq/speech-2023-2.git
